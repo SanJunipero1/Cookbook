@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../wd007/w2tag2"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../x"
+		},
+		{
+			"path": "../psd_to_html_2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cookbook_local"
+	}
+}
