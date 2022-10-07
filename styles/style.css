@@ -11,3 +11,7 @@ html {
     overflow-y: scroll;
     margin-bottom: 25px;
 }
+
+li a:hover {
+    color: blue;
+}
